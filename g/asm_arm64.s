@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 #include "funcdata.h"
 #include "go_asm.h"
 #include "textflag.h"
