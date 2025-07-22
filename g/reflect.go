@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: MIT
+//go:build go1.23
 package g
 
 import (
